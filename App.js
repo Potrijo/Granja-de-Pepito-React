@@ -28,6 +28,7 @@ const ANIMALS = [
   {name: 'Vaca', key:'8', image:<PintaPng name="cow.webp" />, audio: require("./assets/cowCut.mp3")},
   {name: 'Cabra', key:'9', image:<PintaPng name="goat.jpg" />, audio: require("./assets/goatCut.mp3")},
   {name: 'Be', key:'10', image:<PintaPng name="lamb.jpg" />, audio: require("./assets/lambCut.mp3")},
+  // branch prueba
 ]
 
 export default function App() {
