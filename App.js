@@ -29,7 +29,7 @@ const ANIMALS = [
   {name: 'Cabra', key:'9', image:<PintaPng name="goat.jpg" />, audio: require("./assets/goatCut.mp3")},
   {name: 'Be', key:'10', image:<PintaPng name="lamb.jpg" />, audio: require("./assets/lambCut.mp3")},
 ]
-
+// es como el main en java 
 export default function App() {
   const [sound, setSound] = React.useState();
 
