@@ -16,7 +16,7 @@ const PintaPng = (props) => {
     </View>
   );
 }
-
+// comentario master branch
 const ANIMALS = [
   {name: 'Gallina', key:'1', image:<PintaPng name="gallina.jpg" />, audio:require('./assets/chickenCut.mp3') },
   {name: 'Gat', key:'2', image:<PintaPng name="Cat.jpg" />, audio: require("./assets/cattyCut.mp3") },
